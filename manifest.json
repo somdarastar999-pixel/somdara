@@ -1,0 +1,47 @@
+{
+  "id": "./",
+  "name": "V2-KPI | ប្រព័ន្ធគ្រប់គ្រង SOP & KPI សាលារៀន",
+  "short_name": "V2-KPI",
+  "description": "ប្រព័ន្ធគ្រប់គ្រង និងវាយតម្លៃការងារបុគ្គលិកតាមស្តង់ដារ SOP & KPI សាលារៀន",
+  "lang": "km",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#F2F2F7",
+  "theme_color": "#007AFF",
+  "categories": ["education", "productivity", "business"],
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
